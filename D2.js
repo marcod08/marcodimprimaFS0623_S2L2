@@ -4,7 +4,7 @@
 
 /*
 const num1 = parseInt(prompt("inserisci il primo numero"))
-const num2 = parseFloat(prompt("inserisci il secondo numero"))
+const num2 = parseInt(prompt("inserisci il secondo numero"))
 
 if(num1 > num2){
   alert("il numero " + num1 + " è il piu grande")
